@@ -1,0 +1,47 @@
+/* fonts */
+.inter-normal{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* colors */
+.primary-color{
+    color: #4E47FF;
+}
+
+/* buttons */
+.btn{
+    background-color: #4E47FF;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 10px; 
+}
+
+/* Navbar styles */
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 150px;
+}
+.nav-title{
+    font-weight:800;
+    font-size: 34px;
+}
+nav ul li{
+    list-style: none; 
+}
+nav ul li a{
+    text-decoration: none;
+ }
+nav ul li .btn{
+    height:48px;
+    width: 132px;
+}
