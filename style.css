@@ -84,3 +84,40 @@ nav ul li .btn{
     height: 48px;
     width: 174px;
 }
+
+/* action section */
+
+.action-section{
+    margin-top:150px ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.left{
+    margin-bottom: 15px;
+    width: 520px;
+}
+ .left h2{
+    font-weight: 700;
+    font-size: 42px;
+    margin-bottom: 20px;
+ }
+
+ .left h3{
+    font-weight: 400;
+    font-size: 25px;
+    opacity: 50%;
+    margin-bottom: 20px;
+    text-align: left;
+
+ }
+
+ .left button{
+    height:48px ;
+    width:229px ;
+ }
+
+ .right img{
+    border-radius: 48px;
+ }
