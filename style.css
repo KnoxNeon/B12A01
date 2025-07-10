@@ -168,3 +168,68 @@ nav ul li .btn{
     font-weight: 400;
     color: rgba(0, 0, 0, 0.5);
  }
+
+ .reviews{
+    text-align: center;
+    height: 342px;
+    width: 1140px;
+    margin: 0px auto;
+    
+ }
+
+ .reviews h2{
+    font-size: 42px;
+    font-weight: 700;
+    
+ }
+
+ .containers{
+    display: flex;
+    height: 243px;
+    width: full;
+    justify-content: space-between;
+    margin-top: 50px;
+    gap: 30px;
+ }
+
+ .first{
+    padding: 24px;
+    text-align: left;
+    border-radius: 14px;
+    border: 1px #a11a1a;
+    background-color:rgba(255, 255, 255, 0.5); 
+ }
+ .stars{
+    padding-bottom: 15px;
+ }
+ .para{
+    padding-bottom: 25px;
+ }
+ .para h3{
+    height: 29px;
+    width: 221px;
+    font-weight: 600;
+    font-size: 23px; 
+    padding-bottom: 13px; 
+ }
+
+ .user{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+ }
+
+ .user img{
+    border-radius: 50%;
+ }
+
+.name-date h3{
+    font-size: 15px;
+    font-weight: 700;
+    opacity: 40%;
+}
+.name-date p{
+    font-size: 15px;
+    font-weight: 400;
+    opacity: 20%;
+}
