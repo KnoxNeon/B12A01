@@ -138,29 +138,28 @@ nav ul li .btn{
  /* productive users section */
 
 .productive-user{
-    height: 300px;
-    width: 1140px;
+    height: 400px;
+    width: 1500px;
     background-color: rgba(78, 71, 255, 0.1);
-    /* text-align: center; */
     margin: 150px auto;
     border-radius: 24px;
  }
 
  .productive-user h2{
     height: 45px;
-    width: 850px;
-    font-size: 38px;
+    width: 1000px;
+    font-size: 50px;
     font-weight: 700;
     text-align: center;
     margin: 0px auto;
-    padding-top: 50px;
+    padding-top: 80px;
     
  }
 
  .stats{
     display: flex;
     justify-content: space-between;
-    padding: 35px 150px;
+    padding: 80px 150px;
  }
 
  .active{
@@ -247,8 +246,8 @@ nav ul li .btn{
 .focus{
    text-align: center;
    margin: 100px auto;
-   height: 696px;
-   width: 1140px;
+   height: 800px;
+   width: 1500px;
    background-color: white;
    border-radius: 14px;
 
@@ -268,11 +267,13 @@ nav ul li .btn{
 .focus button{
    height: 48px;
    width: 195px;
-   margin-bottom: 20px;
+   margin-bottom: 30px;
    font-size: 16px;
    font-weight: 500;
 }
 .focus img{
+   height: 450px;
+   width: 1000px;
    border-radius: 48px;
    display: block;
    margin: 0px auto;
