@@ -36,6 +36,15 @@
     border-radius: 10px; 
 }
 
+.btn:hover {
+    background-color: #2c298a; 
+    font-weight: 700; 
+    transform: scale(1.08);
+    box-shadow: 0 0 10px rgba(78, 71, 255, 0.6);
+    opacity: 0.9;
+    
+}
+
 /* header */
 .header{
     background-image: url("/Assets/Hero-bg.png");
@@ -328,5 +337,44 @@ nav ul li .btn{
    margin-bottom: 20px;
    border: 0.5px solid black;
    border-radius: 10px;
+}
+
+/* footer */
+
+footer{
+   background-color: white;
+   text-align: center;
+   height: 428px;
+   width: full;
+}
+
+footer h1{
+   font-weight: 900;
+   font-size: 100px;
+   padding-top: 80px;
+   height: 121px;
+   width: 291px;
+   margin: 0 auto;
+}
+
+footer p{
+   text-align: center;
+   color: #8987A1;
+   width: 530px;
+   margin: 0 auto;
+}
+
+.links{
+   display: flex;
+   padding-top: 20px;
+   gap:48px;
+   justify-content: center;
+}
+
+.links a{
+   color: #8987A1;
+   text-decoration: none;
+   font-size: 16px;
+   font-weight: 400;
 }
 
