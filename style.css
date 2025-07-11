@@ -47,7 +47,7 @@
 
 /* header */
 .header{
-    background-image: url("./Assets/Hero-bg.png");
+    background-image: url("Assets/Hero-bg.png");
     background-size: contain;
     height: 690px;
     
